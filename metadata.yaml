@@ -1,0 +1,37 @@
+_repo: The-Flood_7011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: From influential French novelist Emile Zola, author of Germinal and Therese
+  Raquin comes The Flood in a brand new translation, a collection of dark and surreal
+  short stories. 'The Flood' and accompanying stories 'Blood' and 'Three Wars' address
+  ideas of human fragility and the uncontrollable effect the power of nature can have
+  on our lives. 'The Flood' centres around Louis Roubien. Now an old man, the head
+  of a large family, his many years of hard work on the land have transformed him
+  from a peasant farmer into a prosperous and satisfied freeholder, distributing his
+  largesse among his relatives and the local community.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disaster victims -- Fiction'
+- !lcsh 'Garonne River (Spain and France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Floods -- France -- Toulouse -- 19th century -- Fiction'
+- GITenberg
+title: The Flood
+url: http://www.gutenberg.org/ebooks/7011
